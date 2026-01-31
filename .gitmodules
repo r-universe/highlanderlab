@@ -1,7 +1,17 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/highlanderlab/highlanderlab.r-universe.dev
 	branch = HEAD
+[submodule "AlphaPart"]
+	path = AlphaPart
+	url = github.com/alphagenes/AlphaPart
+[submodule "AlphaSimR"]
+	path = AlphaSimR
+	url = github.com/gaynorr/AlphaSimR
+[submodule "RcppTskit"]
+	path = RcppTskit
+	url = https://github.com/highlanderlab/RcppTskit
+	subdir = RcppTskit
 [submodule "SIMplyBee"]
 	path = SIMplyBee
-	url = https://github.com/highlanderlab/simplybee
+	url = https://github.com/highlanderlab/SIMplyBee
