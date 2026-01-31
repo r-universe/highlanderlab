@@ -12,6 +12,9 @@
 	path = RcppTskit
 	url = https://github.com/highlanderlab/RcppTskit
 	subdir = RcppTskit
+[submodule "RcppTskitTestLinking"]
+	path = RcppTskitTestLinking
+	url = https://github.com/HighlanderLab/RcppTskitTestLinking
 [submodule "SIMplyBee"]
 	path = SIMplyBee
 	url = https://github.com/highlanderlab/SIMplyBee
